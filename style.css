@@ -1,0 +1,11 @@
+@font-face {
+    font-family: myFont;
+    src: url(ComicMono.ttf);
+}
+
+body{
+    font-family: myFont;
+    font-weight: 0;
+    font-size: large;
+    background: rgb(11, 6, 42);
+}
